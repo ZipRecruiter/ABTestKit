@@ -1,0 +1,16 @@
+PODS:
+  - ABTestKit (0.1.0)
+
+DEPENDENCIES:
+  - ABTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  ABTestKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ABTestKit: 1689e746873625c7f4617d0c9e49cc688f8ced0a
+
+PODFILE CHECKSUM: c3e1ddd194876bfe9d8bc772570a6a92a39c6e6e
+
+COCOAPODS: 1.0.1

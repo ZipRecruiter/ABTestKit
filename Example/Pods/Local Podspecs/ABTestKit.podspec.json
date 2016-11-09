@@ -1,0 +1,22 @@
+{
+  "name": "ABTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of ABTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ABTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yariv Nissim": "yariv@ziprecruiter.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ABTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABTestKit/Classes/**/*"
+}
