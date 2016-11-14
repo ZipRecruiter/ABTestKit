@@ -46,9 +46,9 @@ Use the `shared` singleton property to setup the framework:
 
 - Enable all the active tests
 
-- Migrate the buckets in UserDefaults to the key defined in the `Configuration` object
+- React to bucketing events (optional)
 
-- React to bukceting events
+- Migrate the buckets in UserDefaults to the key defined in the `Configuration` object (optional)
 
 ```swift
 extension ABTestKit {
