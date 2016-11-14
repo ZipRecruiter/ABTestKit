@@ -97,7 +97,7 @@ try! ABTestKit.shared.runTest(.featureNumberOne) {
 
 ### Multiple test buckets
 
-```
+```swift
 try! ABTestKit.shared.runTest(.featureNumberTwo, handlers: {
     // control
     view.backgroundColor = .white
