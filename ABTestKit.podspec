@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ABTestKit'
   s.version          = '1.0'
-  s.summary          = 'AB Tests framework in Swift  3.'
+  s.summary          = 'AB Tests framework in Swift 3'
   s.description      = <<-DESC
 Use ABTestKit to randomly bukcet users, and run code based on these buckets quickly and easily with closures.
 This framework supports Obj-C but is designed with Swift in mind.
