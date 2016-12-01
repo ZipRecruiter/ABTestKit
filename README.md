@@ -1,6 +1,5 @@
 # ABTestKit
 
-[![CI Status](http://img.shields.io/travis/Yariv Nissim/ABTestKit.svg?style=flat)](https://travis-ci.org/Yariv Nissim/ABTestKit)
 [![Version](https://img.shields.io/cocoapods/v/ABTestKit.svg?style=flat)](http://cocoapods.org/pods/ABTestKit)
 [![License](https://img.shields.io/cocoapods/l/ABTestKit.svg?style=flat)](http://cocoapods.org/pods/ABTestKit)
 [![Platform](https://img.shields.io/cocoapods/p/ABTestKit.svg?style=flat)](http://cocoapods.org/pods/ABTestKit)
